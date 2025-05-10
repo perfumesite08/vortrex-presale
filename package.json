@@ -32,5 +32,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfumesite08/vortrex-presale.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perfumesite08/vortrex-presale/issues"
+  },
+  "homepage": "https://github.com/perfumesite08/vortrex-presale#readme",
+  "description": ""
 }
